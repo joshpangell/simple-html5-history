@@ -16,5 +16,11 @@ of both, see [History.js](https://github.com/balupton/History.js/)
 To init the history event, add `rel="history"` to any tag like
 	
 	<a rel="history" href="link-one">Link One</a>
+
+Then init the history in the document.ready
+	
+	$(document).ready(function() {
+		History.Init();
+	});
 	
 To use hash `#` history, find the `############## STUB ##############` with descriptions on what to add there
