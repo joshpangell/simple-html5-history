@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Simple HTML5 History</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="history.html5.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			History.Init();
+		});
+	</script>
+
+</head>
+
+<body>
+	<br><br>
+	<a rel="history" href="link-one">Link One</a> | 
+	<a rel="history" href="link-two">Link Two</a> | 
+	<a rel="history" href="link-three">Link Three</a> | 
+	<a rel="history" href="link-four">Link Four</a> | 
+	<a rel="history" href="link-five">Link Five</a> | 
+	<a rel="history" href="link-six">Link Six</a>
+	
+	<ul id="log"></ul>
+</body>
+
+</html>
