@@ -1,5 +1,8 @@
 # Simple HTML5 history
 
+## Demo
+[http://joshpangell.github.com/simple-html5-history/](http://joshpangell.github.com/simple-html5-history)
+
 ## Description
 
 Inspired by [Jörn Zaefferer's simple history](https://github.com/jzaefferer/simple-history), 
