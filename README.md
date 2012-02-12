@@ -1,7 +1,7 @@
 # Simple HTML5 history
 
 ## Demo
-[http://joshpangell.github.com/simple-html5-history/](http://joshpangell.github.com/simple-html5-history\)
+[http://joshpangell.github.com/simple-html5-history/](http://joshpangell.github.com/simple-html5-history)
 
 ## Description
 
